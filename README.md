@@ -4,7 +4,15 @@ An Online Feedback System built using **Flask**, **HTML**, **CSS**, and **JavaSc
 This project allows users to submit feedback online, and administrators can view and manage responses efficiently.
 
 ---
+<img width="440" height="370" alt="Image" src="https://github.com/user-attachments/assets/0207a63c-35d8-4636-8b4a-a6e31e2f8af4" />
 
+<img width="370" height="203" alt="Image" src="https://github.com/user-attachments/assets/d15bfd70-dd31-4a15-87ec-53da608f15ab" />
+
+<img width="409" height="262" alt="Image" src="https://github.com/user-attachments/assets/f4f7caaa-7999-4855-a4ca-83b1e6b07730" />
+
+<img width="862" height="370" alt="Image" src="https://github.com/user-attachments/assets/5662a998-0416-4872-b191-6274c9fed219" />
+
+----
 ## 🚀 Features
 - User-friendly interface for submitting feedback
 - Secure storage of feedback data
